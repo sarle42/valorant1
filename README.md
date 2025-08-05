@@ -5,3 +5,5 @@
 <img class="smoke-img" src="image/at.png" alt="煙位圖片">
 <img class="smoke-img" src="image/sun de.png" alt="煙位圖片">
 <img class="smoke-img" src="image/sun at.png" alt="煙位圖片">
+<img class="smoke-img" src="image/spl at.png" alt="煙位圖片">
+<img class="smoke-img" src="image/spl de.png" alt="煙位圖片">
