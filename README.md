@@ -15,3 +15,11 @@
 <img class="smoke-img" src="image/bree de.png" alt="煙位圖片">
 <img class="smoke-img" src="image/bree at.png" alt="煙位圖片">
 
+<img class="smoke-img" src="image/lo de.png" alt="煙位圖片">
+<img class="smoke-img" src="image/lo at.png" alt="煙位圖片">
+<img class="smoke-img" src="image/f de.png" alt="煙位圖片">
+<img class="smoke-img" src="image/f at.png" alt="煙位圖片">
+<img class="smoke-img" src="image/haven de.png" alt="煙位圖片">
+<img class="smoke-img" src="image/haven at.png" alt="煙位圖片">
+<img class="smoke-img" src="image/bird de.png" alt="煙位圖片">
+<img class="smoke-img" src="image/bird at.png" alt="煙位圖片">
